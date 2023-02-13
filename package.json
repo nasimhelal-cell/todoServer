@@ -1,0 +1,14 @@
+{
+  "name": "todoserver",
+  "version": "1.0.0",
+  "description": "\"This is only use for making todo app server making\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Nasim Helal",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
